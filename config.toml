@@ -115,4 +115,4 @@ theme = "hugo-artists-theme"
 
 
 	[params.footer]
-		copyright = "Published under the Unlicense License."
+		copyright = "Suguru Ohki"
